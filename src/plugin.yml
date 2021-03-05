@@ -1,0 +1,5 @@
+name: CustomMob
+main: me.insideintel.CustomMobs
+version: 1.0
+commands:
+  test:

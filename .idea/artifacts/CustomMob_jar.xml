@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CustomMob:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CustomMob_jar</output-path>
+    <root id="archive" name="CustomMob.jar">
+      <element id="module-output" name="CustomMob" />
+    </root>
+  </artifact>
+</component>
